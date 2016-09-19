@@ -43,6 +43,7 @@ std::vector<std::string> GetVectorString(const std::string& S) {
 
 int main()
 {
+	setlocale(LC_ALL, "RUSSIAN");
 	std::string PATH_TO_LABELS_FOLDER = ".\\Labels\\1\\";
 	int NUMBER_OF_SPEAKERS = 11;
 	int NUMBER_OF_PHRASES = 200;
