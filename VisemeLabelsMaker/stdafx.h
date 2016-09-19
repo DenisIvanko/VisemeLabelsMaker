@@ -13,7 +13,6 @@
 #include <fstream>
 #include <iostream>
 #include <string>
+#include <vector>
 
 
-
-// TODO: Установите здесь ссылки на дополнительные заголовки, требующиеся для программы
